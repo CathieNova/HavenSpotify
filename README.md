@@ -62,3 +62,8 @@ Can i be your sponsor or partnership with you for free?
 
 I want to support you but i don't have anything to spare, can i support you somehow?
 > By following me you support me, if you want to support me more then watching my streams, joining my community will help greatly as well as helping advertising the bots i have.
+> You can also copy the image below and put it in your Twitch Panel section and the URL directed at (https://www.patreon.com/cathienna?fan_landing=true)
+
+# Resources
+Twitch Panel: (https://dl.dropboxusercontent.com/s/e7hcok4sazpplk9/Cathie%20Bots.PNG)
+![Twitch Panel](https://dl.dropboxusercontent.com/s/e7hcok4sazpplk9/Cathie%20Bots.PNG)
