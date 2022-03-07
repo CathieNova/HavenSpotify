@@ -18,11 +18,10 @@ DISCLAIMER: Hide your Access Token or ClientID, don't show it on stream or share
 2. Start Haven Spotify.exe
 3. Enter Your Channel Name in the Text Box
 4. Generate an 'Access Token' **[HERE](https://twitchtokengenerator.com/quick/yvohCaiQmD)** (if using my other twitch bot, generate a new token to avoid errors)
-5. Select "Bot Chat Token" then authorize your twitch channel.
-* The url asks for access to Write and Read Twitch Chat, it is only setup to post the song name if people type !song
-7. Copy Access Token into "Access Token" the Text Box.
-8. Copy ClientID into "ClientID" into the Text Box.
-9. Click Login and you're done.
+5. Select "Bot Chat Token" then authorize your twitch channel. /The url asks for access to Write and Read Twitch Chat, it is only setup to post the song name if people type !song)
+6. Copy Access Token into "Access Token" the Text Box.
+7. Copy ClientID into "ClientID" into the Text Box.
+8. Click Login and you're done.
 
 # What each setting does
 This Bot has 4 features and is very simple:
