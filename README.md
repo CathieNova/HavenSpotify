@@ -46,7 +46,7 @@ This Bot has 4 features and is very simple:
 
 # FAQ
 I have issues and i need help
-> If you need help instantly then join my discord and post your issues in the Issues section, i'll help ASAP. https://discord.gg/8MQqy2nvs5
+> If you need help instantly then join my discord and post your issues in the Issues section, i'll help ASAP.
 
 Where does it save?
 > The only saving is your Twitch Login in the folder the exe is found.
