@@ -14,8 +14,8 @@ If you have issues then please create an issue thread [Here](https://github.com/
 
 # How to install
 DISCLAIMER: Do NOT show Access Token or ClientID on stream.
-1. Go to **[Cathie's Twitch Channel](https://www.twitch.tv/cathienna)** and follow. (You can't use the bot otherwise, it's free)
-2. Start Cathies Shoutout Champion.exe
+1. Go to **[Cathie's Twitch Channel](https://www.twitch.tv/cathienna)** and follow.
+2. Start Haven Spotify.exe
 3. Enter Your Channel Name in the Text Box
 4. Generate an 'Access Token' **[HERE](https://twitchtokengenerator.com/quick/yvohCaiQmD)** (if using my other twitch bot, generate a new token to avoid errors)
 5. Select "Bot Chat Token" then authorize your twitch channel.
@@ -49,8 +49,8 @@ This Bot has 4 features and is very simple:
 I have issues and i need help
 > If you need help instantly then join my discord and post your issues in the Issues section, i'll help ASAP. https://discord.gg/8MQqy2nvs5
 
-Where does it save my files?
-> The only saving is your Twitch Login.
+Where does it save?
+> The only saving is your Twitch Login in the folder the exe is found.
 
 I'm not an affiliate on twitch, can i use it?
 > Yes, this bot does not require any Affiliate features, it only reads your chat feed and posts in chat.
