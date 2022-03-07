@@ -37,7 +37,7 @@ This Bot has 4 features and is very simple:
 > 
 > **[Twitch](https://www.twitch.tv/cathienna)** (Subs/Bits are welcome if you want to support me)
 > 
-> **[Discord Community](https://discord.gg/u6SpUpfMzy) (My discord community)
+> **[Discord Community](https://discord.gg/u6SpUpfMzy)** (My discord community)
 > 
 > **[Tipping me](https://www.patreon.com/cathienna)** (i create a lot of free stuff and patreon is a good way to motivate me to make even more!)
 
