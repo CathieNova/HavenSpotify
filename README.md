@@ -39,7 +39,7 @@ This Bot has 4 features and is very simple:
 > 
 > **[Discord Community](https://discord.gg/u6SpUpfMzy)** (My discord community)
 > 
-> **[Tipping me](https://www.patreon.com/cathienna)** (i create a lot of free stuff and patreon is a good way to motivate me to make even more!)
+> **[Support me](https://www.patreon.com/cathienna)** (i create a lot of free stuff and patreon is a good way to motivate me to make even more!)
 
 # Sponsors & Partnerships
 > **Want to be here? Contact me on Twitter or Discord
