@@ -13,7 +13,7 @@ If you have issues then please create an issue thread [Here](https://github.com/
 3. Extract anywhere you want.
 
 # How to install
-DISCLAIMER: Hide your Access Token or ClientID, don't show it on stream.
+DISCLAIMER: Hide your Access Token or ClientID, don't show it on stream or share it with anyone.
 1. Go to **[Cathie's Twitch Channel](https://www.twitch.tv/cathienna)** and follow.
 2. Start Haven Spotify.exe
 3. Enter Your Channel Name in the Text Box
