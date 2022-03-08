@@ -9,7 +9,7 @@ If you have issues then please create an issue thread [Here](https://github.com/
 
 # How to download:
 1. Go to [Download Here](https://github.com/Cathienna/HavenSpotify/releases)
-2. Download the .rar file of the latest version.
+2. Download the .zip file of the latest version.
 3. Extract anywhere you want.
 
 # How to install
