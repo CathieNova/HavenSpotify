@@ -5,16 +5,16 @@
 # What is this bot?
 This bot is a program that fetches the current Spotify song playing and posts it in the twitch chat when people type "!song" or you can copy to clipboard or even click a button to post it yourself.
 *please note that this program is new and is new and have not been tested, it has however been heavily tested without issues!*
-If you have issues then please create an issue thread [Here](https://github.com/Cathienna/HavenSpotify/issues)
+If you have issues then please create an issue thread [Here](https://github.com/TwinkleCath/HavenSpotify/issues)
 
 # How to download:
-1. Go to [Download Here](https://github.com/Cathienna/HavenSpotify/releases)
+1. Go to [Download Here](https://github.com/TwinkleCath/HavenSpotify/releases)
 2. Download the .zip file of the latest version.
 3. Extract anywhere you want.
 
 # How to install
 DISCLAIMER: Hide your Access Token or ClientID, don't show it on stream or share it with anyone.
-1. Go to **[Cathie's Twitch Channel](https://www.twitch.tv/cathienna)** and follow.
+1. Go to **[Cathie's Twitch Channel](https://www.twitch.tv/twinklecath)** and follow. (optional)
 2. Start Haven Spotify.exe
 3. Enter Your Channel Name in the Text Box
 4. Generate an 'Access Token' **[HERE](https://twitchtokengenerator.com/quick/yvohCaiQmD)** (if using my other twitch bot, generate a new token to avoid errors)
@@ -33,13 +33,11 @@ This Bot has 4 features and is very simple:
 # How to support me and stay updated to the bot
 > **[Discord](https://discord.gg/u6SpUpfMzy)** (For future updates and support of the bot)
 > 
-> **[Twitter](https://twitter.com/cathienna)** (A follow doesn't hurt)
+> **[Twitter](https://twitter.com/TwinkleCath)** (A follow doesn't hurt)
 > 
-> **[Twitch](https://www.twitch.tv/cathienna)** (Subs/Bits are welcome if you want to support me)
+> **[Twitch](https://www.twitch.tv/TwinkleCath)** (Subs/Bits are welcome if you want to support me)
 > 
 > **[Discord Community](https://discord.gg/u6SpUpfMzy)** (My discord community)
-> 
-> **[Support me](https://www.patreon.com/cathienna)** (i create a lot of free stuff and patreon is a good way to motivate me to make even more!)
 
 # Sponsors & Partnerships
 > **Want to be here? Contact me on Twitter or Discord
@@ -62,7 +60,7 @@ Can i be your sponsor or partnership with you for free?
 
 I want to support you but i don't have anything to spare, can i support you somehow?
 > By following me you support me, if you want to support me more then watching my streams, joining my community will help greatly as well as helping advertising the bots i have.
-> You can also copy the image below and put it in your Twitch Panel section and the URL directed at (https://www.patreon.com/cathienna?fan_landing=true)
+> You can also copy the image below and put it in your Twitch Panel section and the URL directed at (https://github.com/TwinkleCath/HavenSpotify)
 
 # Resources
 Twitch Panel: (https://dl.dropboxusercontent.com/s/e7hcok4sazpplk9/Cathie%20Bots.PNG)
