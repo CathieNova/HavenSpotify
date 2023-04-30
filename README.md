@@ -8,13 +8,13 @@ This bot is a program that fetches the current Spotify song playing and posts it
 If you have issues then please create an issue thread [Here](https://github.com/TwinkleCath/HavenSpotify/issues)
 
 # How to download:
-1. Go to [Download Here](https://github.com/TwinkleCath/HavenSpotify/releases)
+1. Go to [Download Here](https://github.com/cathienna/HavenSpotify/releases)
 2. Download the .zip file of the latest version.
 3. Extract anywhere you want.
 
 # How to install
 DISCLAIMER: Hide your Access Token or ClientID, don't show it on stream or share it with anyone.
-1. Go to **[Cathie's Twitch Channel](https://www.twitch.tv/twinklecath)** and follow. (optional)
+1. Go to **[Cathie's Twitch Channel](https://www.twitch.tv/cathienna)** and follow. (optional)
 2. Start Haven Spotify.exe
 3. Enter Your Channel Name in the Text Box
 4. Generate an 'Access Token' **[HERE](https://twitchtokengenerator.com/quick/yvohCaiQmD)** (if using my other twitch bot, generate a new token to avoid errors)
@@ -33,9 +33,9 @@ This Bot has 4 features and is very simple:
 # How to support me and stay updated to the bot
 > **[Discord](https://discord.gg/u6SpUpfMzy)** (For future updates and support of the bot)
 > 
-> **[Twitter](https://twitter.com/TwinkleCathie)** (A follow doesn't hurt)
+> **[Twitter](https://twitter.com/cathienna69)** (A follow doesn't hurt)
 > 
-> **[Twitch](https://www.twitch.tv/TwinkleCath)** (Subs/Bits are welcome if you want to support me)
+> **[Twitch](https://www.twitch.tv/cathienna)** (Subs/Bits are welcome if you want to support me)
 > 
 > **[Discord Community](https://discord.gg/u6SpUpfMzy)** (My discord community)
 
