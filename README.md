@@ -33,7 +33,7 @@ This Bot has 4 features and is very simple:
 # How to support me and stay updated to the bot
 > **[Discord](https://discord.gg/u6SpUpfMzy)** (For future updates and support of the bot)
 > 
-> **[Twitter](https://twitter.com/cathienna69)** (A follow doesn't hurt)
+> **[Twitter](https://twitter.com/cathienna)** (A follow doesn't hurt)
 > 
 > **[Twitch](https://www.twitch.tv/cathienna)** (Subs/Bits are welcome if you want to support me)
 > 
