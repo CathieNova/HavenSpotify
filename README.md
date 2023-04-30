@@ -5,7 +5,7 @@
 # What is this bot?
 This bot is a program that fetches the current Spotify song playing and posts it in the twitch chat when people type "!song" or you can copy to clipboard or even click a button to post it yourself.
 *please note that this program is new and is new and have not been tested, it has however been heavily tested without issues!*
-If you have issues then please create an issue thread [Here](https://github.com/TwinkleCath/HavenSpotify/issues)
+If you have issues then please create an issue thread [Here](https://github.com/cathienna/HavenSpotify/issues)
 
 # How to download:
 1. Go to [Download Here](https://github.com/cathienna/HavenSpotify/releases)
