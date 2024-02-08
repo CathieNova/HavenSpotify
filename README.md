@@ -45,7 +45,3 @@ I'm not an affiliate on twitch, can i use it?
 
 I want some more features on this bot!
 > Message me on Discord, i'll be happy to listen to the ideas!
-
-# Resources
-Twitch Panel: (https://dl.dropboxusercontent.com/s/e7hcok4sazpplk9/Cathie%20Bots.PNG)
-![Twitch Panel](https://dl.dropboxusercontent.com/s/e7hcok4sazpplk9/Cathie%20Bots.PNG)
