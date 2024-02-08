@@ -33,12 +33,9 @@ This Bot has 4 features and is very simple:
 > 
 > **[Discord Community](https://discord.gg/u6SpUpfMzy)** (My discord community)
 
-# Sponsors & Partnerships
-> **Want to be here? Contact me on Twitter or Discord
-
 # FAQ
 I have issues and i need help
-> If you need help instantly then join my discord and post your issues in the Issues section, i'll help ASAP.
+> If you need help instantly then join my discord and post your issues in the Issues section, i'll help.
 
 Where does it save?
 > The only saving is your Twitch Login in the folder the exe is found.
@@ -48,13 +45,6 @@ I'm not an affiliate on twitch, can i use it?
 
 I want some more features on this bot!
 > Message me on Discord, i'll be happy to listen to the ideas!
-
-Can i be your sponsor or partnership with you for free?
-> Yes anyone can for any of my bots, Message me on Discord and we can discuss it.
-
-I want to support you but i don't have anything to spare, can i support you somehow?
-> By following me you support me, if you want to support me more then watching my streams, joining my community will help greatly as well as helping advertising the bots i have.
-> You can also copy the image below and put it in your Twitch Panel section and the URL directed at (https://github.com/TwinkleCath/HavenSpotify)
 
 # Resources
 Twitch Panel: (https://dl.dropboxusercontent.com/s/e7hcok4sazpplk9/Cathie%20Bots.PNG)
